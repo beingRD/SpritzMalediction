@@ -16,8 +16,6 @@ And they start hunting for a place where they can find a **Spritz for 1 euro eac
 
 ## Snapshots
 
-![](Images/Snap1.png)
-
 ![](Images/Snap2.png)
 
 ![](Images/Snap3.png)
