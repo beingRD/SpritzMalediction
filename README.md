@@ -14,7 +14,7 @@ Hence, the **game of survival** starts!!
 
 And they start hunting for a place where they can find a **Spritz for 1 euro each**. Screams!!
 
-## Snapshots
+# Snapshots
 
 ![](Images/Snap2.png)
 
