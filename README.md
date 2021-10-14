@@ -13,3 +13,18 @@ So they started looking for a spritz to survive the curse, but suddenly they wer
 Hence, the **game of survival** starts!!
 
 And they start hunting for a place where they can find a **Spritz for 1 euro each**. Screams!!
+
+## Snapshots
+
+![](Images/Snap1.png)
+
+![](Images/Snap2.png)
+
+![](Images/Snap3.png)
+
+![](Images/Snap4.png)
+
+![](Images/Snap5.png)
+
+![](Images/Snap6.png)
+
