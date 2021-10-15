@@ -29,7 +29,7 @@ let uiImage2 = UIImage(#imageLiteral(resourceName: "bloodmoon.jpg"))
 let bars: [Bar] = [
     Bar(title: "Cammarota Spritz", subtitle: "Vico Lungo Teatro Nuovo, 31", barImage: "cammarota", coordinate: .init(latitude: 40.842128, longitude: 14.247632)),
     Bar(title: "Shanti Art Musik Bar", subtitle: "Via Giovanni Paladino, 56/58", barImage: "Shanti.jpg", coordinate: .init(latitude: 40.848504, longitude: 14.256267)),
-    Bar(title: "Bar Fiorillo", subtitle: "Via Santa Maria di Costantinopoli, 89", barImage: "rill.png", coordinate: .init(latitude: 40.849766, longitude: 14.251930)),
+    Bar(title: "Bar Fiorillo", subtitle: "Via Santa Maria di Costantinopoli, 89", barImage: "bar.jpg", coordinate: .init(latitude: 40.849766, longitude: 14.251930)),
     Bar(title: "Iris Bar Sas", subtitle: "Via Guantai Nuovi, 5", barImage: "iris.jpg", coordinate: .init(latitude: 40.842534, longitude: 14.251548)),
     Bar(title: "OAK Napoli", subtitle: "Vico Quercia, 10", barImage: "oak", coordinate: .init(latitude: 40.847101, longitude: 14.250415))
     ]
