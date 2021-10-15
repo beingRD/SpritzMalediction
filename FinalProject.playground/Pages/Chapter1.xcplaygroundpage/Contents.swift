@@ -7,7 +7,7 @@
 
 
 //: ![Spritz Malediction](Namaste.png)
-//: Spritz Makediction: Chapter 1
+//: Spritz Malediction: Chapter 1
 //: =
 // Chapter 1: Created by Marina Sessa
 
